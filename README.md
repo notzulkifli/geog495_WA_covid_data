@@ -1,1 +1,1 @@
-# geog495_population_density
+# geog495_WA_covid_data
